@@ -341,7 +341,7 @@ class Shop {
     }
 }
 
-public class PizzaShop18012V2 {
+public class PizzaShop18028V2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Shop shop = new Shop(scanner);
